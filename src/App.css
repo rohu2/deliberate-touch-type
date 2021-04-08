@@ -1,0 +1,57 @@
+
+body > #root > div {
+
+  height: 100vh;
+display: flex;
+align-items: center;
+justify-content: center;
+
+background-color: #98e9ff;
+
+  }
+
+
+
+input{
+
+
+border: none;
+outline: none;
+font-size: 35px;
+letter-spacing: 9px;
+
+
+}
+
+
+
+
+
+
+.text-display{
+
+font-size: 35px;
+
+
+
+
+}
+
+
+.text-display-container{
+
+
+min-height: 44px;
+
+
+}
+
+
+
+
+
+
+.App {
+  text-align: center;
+}
+
